@@ -1,4 +1,4 @@
-ShopKenya
-=========
+MasterSample
+============
 
-Online Collective Retail Store
+Code Iginiter w/ Doctrine Master Sample Project
